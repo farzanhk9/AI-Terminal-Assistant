@@ -1,6 +1,6 @@
 import os
 import json
-import webbrowser0
+import webbrowser
 from datetime import datetime
 
 MEMORY_FILE = "assistant_memory.json"
