@@ -1,4 +1,4 @@
-import os2
+import os
 import json
 import webbrowser
 from datetime import datetime
